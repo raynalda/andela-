@@ -15,3 +15,4 @@ class TestPrimeNumbers(unittest.TestCase):
 	def test_assert_input_not_even_num(self):
 		# result shouldnt print even numbers
 		self.assertRaises(TypeError,get_primes('even_num'))
+

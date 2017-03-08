@@ -4,7 +4,7 @@ class Car(object):
   num_of_doors = 4
   def __init__(self,name="General",model="GM",car_type=None):
     self.car_type=car_type
-    self.model=model
+    self.model=model 
     self.name=name
   
     if name == "Porshe" or name == "Koenigsegg":

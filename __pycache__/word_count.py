@@ -6,7 +6,7 @@ def words(phrase):
 	#defines an empty dictionary that will store separated words 
 	words_temporary_storage = {}
 
-    #extract each word from the list
+    #extract each word from the list 
 	for word in separated_words:
 
 		#check if the word is stored in our temporary storage .
