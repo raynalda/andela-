@@ -13,4 +13,6 @@ def find_missing(list1,list2):
 		return missing_number
 	else:
 	  return 0
-	  
+
+
+
